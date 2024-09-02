@@ -1,4 +1,4 @@
-# cupboard_inventory
+# House Inventory
 
 A new Flutter project.
 
